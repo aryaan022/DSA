@@ -20,11 +20,17 @@ void sprialMatrix(int mat[][4],int n,int m){
     //bottom
 
     for(int j=ecol-1;j>=scol;j--){
+        if(srow==erow){//middle row condition jab row odd ho basically corner case
+            break;
+        }
         cout<<mat[erow][j]<<" ";
     }
     //left
 
     for(int i=erow-1;i>=srow+1;i--){
+        if(scol==ecol){
+            break;
+        }
         cout<<mat[i][scol]<<" ";
     }
 
