@@ -24,8 +24,7 @@ public:
     void showNum(){
         cout<<real<<"+"<<img<<"i \n";
     }
-
-    //operator overloading
+    //operator overloading(compile time polymorphism example)
     void operator + (Complex &c2){
         int resReal = this->real +c2.real;
         int resImg = this->img +c2.img;
@@ -33,7 +32,7 @@ public:
         cout << "result = ";
         c3.showNum();
     }
-//for minus
+    //for minus
     Complex operator - (Complex &c2){
         int resReal =  this->real - c2.real;
         int resImg = this->img - c2.img;
