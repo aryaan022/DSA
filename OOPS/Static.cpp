@@ -8,7 +8,7 @@ void counter(){
     cout<<count<<endl;;
 }
 class Example{
-    public:
+public:
     static int x;
 };
 
