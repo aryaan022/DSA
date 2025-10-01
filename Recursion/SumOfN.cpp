@@ -13,5 +13,5 @@ int main (){
     int n; 
     cin>>n;
     cout<<Sum(n);
-    return 0;
+    return 0; 
 }
