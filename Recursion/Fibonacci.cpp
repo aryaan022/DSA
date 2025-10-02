@@ -11,8 +11,6 @@ int Fib(int n){
 }
 
 int main (){
-    int n; 
-    cin>>n;
-    Fib(n);
+    cout<<Fib(5);
     return 0;
 }
