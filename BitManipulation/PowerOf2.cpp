@@ -6,7 +6,10 @@ bool Ispower(int n){
         return true;
     }
     return false;
-}
+}     
+
+
+
 int main(){
     cout<<Ispower(4);
     return 0;

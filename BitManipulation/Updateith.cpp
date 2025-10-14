@@ -8,6 +8,8 @@ void UpdateBit(int n,int i, int value){
     cout << "Result: " << n << endl;
 }
 
+
+
 int main(){
     cout << "Updating bit in number 5..." << endl;
     UpdateBit(5,1,1);

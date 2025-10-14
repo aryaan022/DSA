@@ -22,6 +22,8 @@ bool areAnagrams(string str1, string str2) {
     return true;
 }
 
+
+
 int main(){
     string str1 = "anagram";
     string str2 = "margana";
