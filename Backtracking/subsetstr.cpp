@@ -17,9 +17,6 @@ void subsets(string str,string subset){
     //no
     subsets(str.substr(1,str.size()-1),subset);
 }
-
-
-
 int main(){
     string str ="abc";
     string subest ="";

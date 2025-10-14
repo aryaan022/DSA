@@ -15,8 +15,6 @@ void per(string str,string ans){
         per(nextstr,ans+ch);
     }
 }
-
-
 int main(){
     string str = "abc";
     string ans ="";
