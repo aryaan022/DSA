@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
+| [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
