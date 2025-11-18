@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/aryaan022/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aryaan022/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
