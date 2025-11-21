@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryaan022/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryaan022/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryaan022/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aryaan022/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/aryaan022/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aryaan022/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
 ## Number Theory
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryaan022/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
