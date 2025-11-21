@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aryaan022/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/aryaan022/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aryaan022/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aryaan022/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
