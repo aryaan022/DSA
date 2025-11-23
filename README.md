@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryaan022/DSA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/aryaan022/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aryaan022/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aryaan022/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aryaan022/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aryaan022/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryaan022/DSA/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryaan022/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryaan022/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
@@ -150,11 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryaan022/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
