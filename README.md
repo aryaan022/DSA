@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryaan022/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryaan022/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryaan022/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aryaan022/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aryaan022/DSA/tree/master/0053-maximum-subarray) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
 ## Enumeration
 |  |
