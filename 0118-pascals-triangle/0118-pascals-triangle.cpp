@@ -3,23 +3,18 @@ public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> arr(numRows);
 
-        for(int i = 0; i < numRows; i++) {
-
-            vector<int> row;         
-
+        for(int i=0;i<numRows;i++){
+            vector<int> row;
             row.push_back(1);
-
-            for(int j = 1; j < i; j++) {
-                int val = arr[i-1][j-1] + arr[i-1][j];
+            for(int j=1;j<i;j++){
+                int val = arr[i-1][j-1]+arr[i-1][j];
                 row.push_back(val);
             }
-            if(i > 0) {
+            if(i>0){
                 row.push_back(1);
             }
-
-            arr[i] = row;             
+            arr[i]=row;
         }
-
         return arr;
     }
 };
