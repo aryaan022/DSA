@@ -9,7 +9,7 @@ public:
         for(int i = 0; i < nums.size(); i++) {
             int x = nums[i];
 
-            if(x == l || x == se || x == th) continue;   // skip duplicates
+            if(x == l || x == se || x == th) continue;   
 
             if(x > l) {
                 th = se;
