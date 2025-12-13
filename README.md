@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryaan022/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryaan022/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryaan022/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aryaan022/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/aryaan022/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aryaan022/DSA/tree/master/0136-single-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aryaan022/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aryaan022/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryaan022/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryaan022/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryaan022/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryaan022/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aryaan022/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aryaan022/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aryaan022/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
