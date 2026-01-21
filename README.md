@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/aryaan022/DSA/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryaan022/DSA/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aryaan022/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryaan022/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/aryaan022/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/aryaan022/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aryaan022/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryaan022/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/aryaan022/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryaan022/DSA/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aryaan022/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryaan022/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
