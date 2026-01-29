@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aryaan022/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/aryaan022/DSA/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aryaan022/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Backtracking
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aryaan022/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aryaan022/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aryaan022/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/aryaan022/DSA/tree/master/1895-largest-magic-square) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Enumeration
 |  |
 | ------- |
