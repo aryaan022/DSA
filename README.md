@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryaan022/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aryaan022/DSA/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/aryaan022/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aryaan022/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryaan022/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryaan022/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/aryaan022/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/aryaan022/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryaan022/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/aryaan022/DSA/tree/master/0217-contains-duplicate) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryaan022/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/aryaan022/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/aryaan022/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaan022/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
