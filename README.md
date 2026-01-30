@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aryaan022/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aryaan022/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryaan022/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/aryaan022/DSA/tree/master/0414-third-maximum-number) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryaan022/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaan022/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryaan022/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryaan022/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aryaan022/DSA/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aryaan022/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aryaan022/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aryaan022/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryaan022/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aryaan022/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aryaan022/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aryaan022/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Divide and Conquer
