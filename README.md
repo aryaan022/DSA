@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aryaan022/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryaan022/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryaan022/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aryaan022/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/aryaan022/DSA/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryaan022/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/aryaan022/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Sorting
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/aryaan022/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/aryaan022/DSA/tree/master/2402-meeting-rooms-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/aryaan022/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3433-count-mentions-per-user](https://github.com/aryaan022/DSA/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/aryaan022/DSA/tree/master/3531-count-covered-buildings) |
 ## Bit Manipulation
