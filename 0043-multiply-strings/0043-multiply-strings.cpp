@@ -14,8 +14,10 @@ public:
         int i = 0;
         string ans = "";
         while (res[i] == 0) i++;
-        while (i < res.size()) ans += to_string(res[i++]);
-        
+        while (i < res.size()) 
+        {
+            ans += to_string(res[i++]);
+        }
         return ans;
     }
 };
