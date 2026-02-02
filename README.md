@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aryaan022/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/aryaan022/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aryaan022/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryaan022/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1590-make-sum-divisible-by-p](https://github.com/aryaan022/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryaan022/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/aryaan022/DSA/tree/master/1895-largest-magic-square) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aryaan022/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryaan022/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryaan022/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2054-two-best-non-overlapping-events](https://github.com/aryaan022/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1200-minimum-absolute-difference](https://github.com/aryaan022/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1552-magnetic-force-between-two-balls](https://github.com/aryaan022/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2054-two-best-non-overlapping-events](https://github.com/aryaan022/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/aryaan022/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
