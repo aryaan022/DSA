@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aryaan022/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aryaan022/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaan022/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0459-repeated-substring-pattern](https://github.com/aryaan022/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aryaan022/DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aryaan022/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/aryaan022/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aryaan022/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/aryaan022/DSA/tree/master/3583-count-special-triplets) |
 ## Matrix
