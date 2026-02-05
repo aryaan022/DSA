@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryaan022/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/aryaan022/DSA/tree/master/0556-next-greater-element-iii) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/aryaan022/DSA/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
+| [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/aryaan022/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aryaan022/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/aryaan022/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -543,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
