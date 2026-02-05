@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryaan022/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/aryaan022/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aryaan022/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/aryaan022/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/aryaan022/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryaan022/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
+| [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [2211-count-collisions-on-a-road](https://github.com/aryaan022/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/aryaan022/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/aryaan022/DSA/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aryaan022/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aryaan022/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryaan022/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryaan022/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -532,4 +536,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/aryaan022/DSA/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
