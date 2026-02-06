@@ -11,13 +11,13 @@ public:
                     c--;
                 }
             }
-            else if(logs[i]=="./"){
-                //do nothing
-            }
-            else {
-                s.push(logs[i]);
+            else if(logs[i]!="./"){s.push(logs[i]);
                 c++;
             }
+            // else {
+            //     s.push(logs[i]);
+            //     c++;
+            // }
         }
         return c;
         
