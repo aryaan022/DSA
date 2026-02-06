@@ -11,9 +11,7 @@ public:
                 int a=s.top();
                 s.pop();
                 int b= s.top();
-                s.pop();
                 int res= a+b;
-                s.push(b);
                 s.push(a);
                 s.push(res);               
             }
