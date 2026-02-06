@@ -4,10 +4,10 @@ public:
         int n=operations.size();
         stack<int>s;
         for(int i=0;i<n;i++){
-            if(operations[i]!="+" && operations[i]!="D" && operations[i]!= "C"){
-                s.push(stoi(operations[i]));
-            }
-            else if(operations[i]=="+"){
+            // if(operations[i]!="+" && operations[i]!="D" && operations[i]!= "C"){
+            //     s.push(stoi(operations[i]));
+            // }
+            if(operations[i]=="+"){
                 int a=s.top();
                 s.pop();
                 int b= s.top();
@@ -24,6 +24,9 @@ public:
             }
             else if(operations[i]=="C"){
                 s.pop();
+            }
+            else{
+                s.push(stoi(operations[i]));
             }
         }
         int sum=0;
