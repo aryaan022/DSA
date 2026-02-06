@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/aryaan022/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryaan022/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/aryaan022/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aryaan022/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/aryaan022/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryaan022/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryaan022/DSA/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryaan022/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryaan022/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aryaan022/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/aryaan022/DSA/tree/master/1598-crawler-log-folder) |
 | [2211-count-collisions-on-a-road](https://github.com/aryaan022/DSA/tree/master/2211-count-collisions-on-a-road) |
