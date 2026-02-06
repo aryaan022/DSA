@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryaan022/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/aryaan022/DSA/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/aryaan022/DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryaan022/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaan022/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aryaan022/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/aryaan022/DSA/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryaan022/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryaan022/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
