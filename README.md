@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
+| [1544-make-the-string-great](https://github.com/aryaan022/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/aryaan022/DSA/tree/master/1598-crawler-log-folder) |
 | [2211-count-collisions-on-a-road](https://github.com/aryaan022/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aryaan022/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/aryaan022/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/aryaan022/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1544-make-the-string-great](https://github.com/aryaan022/DSA/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/aryaan022/DSA/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aryaan022/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
