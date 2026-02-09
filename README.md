@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aryaan022/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/aryaan022/DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/aryaan022/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/aryaan022/DSA/tree/master/1598-crawler-log-folder) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/aryaan022/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryaan022/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/aryaan022/DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/aryaan022/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aryaan022/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
