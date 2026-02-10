@@ -6,7 +6,6 @@ public:
         
         while(k!=0){
             int min =INT_MAX;
-            int c=0;
             int indx=0;
             for(int i=0;i<n;i++){
                 if(nums[i]<min){
