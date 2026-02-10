@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aryaan022/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/aryaan022/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryaan022/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/aryaan022/DSA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryaan022/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryaan022/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/aryaan022/DSA/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 ## Data Stream
