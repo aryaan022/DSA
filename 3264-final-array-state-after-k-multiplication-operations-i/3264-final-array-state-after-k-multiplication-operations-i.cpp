@@ -13,10 +13,7 @@ public:
                     min =nums[i];
                 }
             }
-            if(nums[indx]==min){
-                nums[indx]=min*m;
-            }
-
+            nums[indx]=min*m;
             k--;
         }
         return nums;   
