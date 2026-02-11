@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryaan022/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aryaan022/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aryaan022/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aryaan022/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aryaan022/DSA/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aryaan022/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aryaan022/DSA/tree/master/0134-gas-station) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryaan022/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryaan022/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aryaan022/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/aryaan022/DSA/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
