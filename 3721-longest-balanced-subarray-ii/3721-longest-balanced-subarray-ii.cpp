@@ -14,12 +14,9 @@ public:
         for (int r = 0; r < n; r++) {
             int l = last.count(nums[r]) ? last[nums[r]] + 1 : 0;
             int delta = nums[r] % 2 ? -1 : +1;
-
-            // Add delta to range [l...r]
             int lblk = l / SQ, rblk = r / SQ;
 
             for (int blk = lblk; blk <= rblk; blk++) {
-                // Rebuild endpoint blocks manually
                 if (blk == lblk || blk == rblk) {
                     for (int i = min(blk * SQ + SQ - 1, n - 1); i >= blk * SQ; i--)
                         blockLeft[blk][accum[i] + n] = 1e9;
@@ -29,11 +26,9 @@ public:
                         blockLeft[blk][accum[i] + n] = i;
                     }
                 }
-                // Non-endpoint blocks are fully contained
                 else 
                     blockLevelAdd[blk] += delta;
             }
-            // Find leftmost 0
             for (int blk = 0; blk <= rblk; blk++)
                 ans = max(ans, r - blockLeft[blk][-blockLevelAdd[blk] + n] + 1);
 
