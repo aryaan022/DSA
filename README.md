@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryaan022/DSA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/aryaan022/DSA/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/aryaan022/DSA/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/aryaan022/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aryaan022/DSA/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/aryaan022/DSA/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/aryaan022/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aryaan022/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aryaan022/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaan022/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/aryaan022/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aryaan022/DSA/tree/master/0392-is-subsequence) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/aryaan022/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/aryaan022/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aryaan022/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/aryaan022/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
