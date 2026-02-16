@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aryaan022/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aryaan022/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/aryaan022/DSA/tree/master/0077-combinations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
