@@ -4,7 +4,7 @@ public:
     
     void helper(int idx, int k,vector<int>&current,int n)
     {
-        if(current.size()==k)    // base case
+        if(current.size()==k) 
         {
             ans.push_back(current);
             return;
@@ -12,9 +12,9 @@ public:
         
         for(int i=idx;i<n+1;i++)
         {
-            current.push_back(i);  //consider the current element i
-            helper(i+1,k,current,n); // generate combinations
-            current.pop_back(); //proceed to next element
+            current.push_back(i);  
+            helper(i+1,k,current,n); 
+            current.pop_back(); 
         }
     }
     
