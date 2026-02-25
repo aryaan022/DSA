@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/aryaan022/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aryaan022/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aryaan022/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/aryaan022/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aryaan022/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aryaan022/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aryaan022/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aryaan022/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/aryaan022/DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/aryaan022/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1200-minimum-absolute-difference](https://github.com/aryaan022/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aryaan022/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1552-magnetic-force-between-two-balls](https://github.com/aryaan022/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [2054-two-best-non-overlapping-events](https://github.com/aryaan022/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/aryaan022/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryaan022/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aryaan022/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aryaan022/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aryaan022/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aryaan022/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
