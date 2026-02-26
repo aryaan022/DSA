@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aryaan022/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaan022/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/aryaan022/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aryaan022/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaan022/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/aryaan022/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aryaan022/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaan022/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
