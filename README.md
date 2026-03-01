@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/aryaan022/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryaan022/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryaan022/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryaan022/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryaan022/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
