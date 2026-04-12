@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Function
 |  |
