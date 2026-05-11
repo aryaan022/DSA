@@ -9,7 +9,7 @@ public:
                 return{m[comp],i};
                 break;
             }
-            m[nums[i]]=i;
+            m[nums[i]]=i; // m[key]=val
         }
         return{};
     }
