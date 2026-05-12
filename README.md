@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryaan022/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aryaan022/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryaan022/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryaan022/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aryaan022/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/aryaan022/DSA/tree/master/0621-task-scheduler) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aryaan022/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/aryaan022/DSA/tree/master/0761-special-binary-string) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/aryaan022/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
