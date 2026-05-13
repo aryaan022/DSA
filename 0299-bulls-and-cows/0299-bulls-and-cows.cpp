@@ -9,7 +9,7 @@ public:
                 bulls++;
             }
             else{
-                m[secret[i]]++; // sttoring frequence <numbber, freq>
+                m[secret[i]]++; // sttoring frequence <number, freq>
             }
         }
 
