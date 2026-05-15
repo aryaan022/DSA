@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aryaan022/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryaan022/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aryaan022/DSA/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/aryaan022/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/aryaan022/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aryaan022/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aryaan022/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/aryaan022/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaan022/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/aryaan022/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/aryaan022/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/aryaan022/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/aryaan022/DSA/tree/master/0299-bulls-and-cows) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aryaan022/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/aryaan022/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aryaan022/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0707-design-linked-list](https://github.com/aryaan022/DSA/tree/master/0707-design-linked-list) |
@@ -829,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryaan022/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aryaan022/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
