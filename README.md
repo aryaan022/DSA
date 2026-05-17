@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryaan022/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1895-largest-magic-square](https://github.com/aryaan022/DSA/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/aryaan022/DSA/tree/master/1929-concatenation-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/aryaan022/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryaan022/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aryaan022/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aryaan022/DSA/tree/master/0735-asteroid-collision) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/aryaan022/DSA/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryaan022/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryaan022/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aryaan022/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
