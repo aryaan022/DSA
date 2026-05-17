@@ -1,19 +1,22 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        int l=1;
-        int r =1;
-        int n = nums.size();
-        vector<int> ans(n, 1);
-        for(int i=0;i<n;i++){
-            ans[i]=l;
-            l=l*nums[i];                            
-        }
+        
+        // ans[i] = (product on left * product of right
+        int left=1;
+        int right=1;
+        vector<int> ans(nums.size(),1);
 
-        for(int i=n-1;i>=0;i--){
-            ans[i]=ans[i]*r;
-            r=r*nums[i];
+        //calculating left
+        for(int i=0;i<nums.size();i++){
+            ans[i]=ans[i]*left;
+            left=nums[i]*left;
         }
-    return ans;
-    }
+        //calculating right and merging it wuth ans that is ans[i]*right and what is ans[i] it is left so basically left*right
+        for(int i=nums.size()-1;i>=0;i--){
+            ans[i]=ans[i]*right;
+            right=nums[i]*right;
+        }
+        return ans;
+     }
 };
