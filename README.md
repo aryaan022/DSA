@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aryaan022/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aryaan022/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/aryaan022/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aryaan022/DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aryaan022/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/aryaan022/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryaan022/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aryaan022/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/aryaan022/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aryaan022/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/aryaan022/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aryaan022/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryaan022/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aryaan022/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aryaan022/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aryaan022/DSA/tree/master/0547-number-of-provinces) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/aryaan022/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/aryaan022/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -867,4 +870,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aryaan022/DSA/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/aryaan022/DSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
