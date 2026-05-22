@@ -3,8 +3,8 @@ public:
     void sortColors(vector<int>& nums) {
         int l=0;
         int m=0;
-        int h=nums.size()-1;
-        while(m<=h){
+        int r=nums.size()-1;
+        while(m<=r){
             if(nums[m]==0){
                 swap(nums[l],nums[m]);
                 l++;
@@ -13,11 +13,10 @@ public:
             else if(nums[m]==1){
                 m++;
             }
-            else{ //2 wala case
-                swap(nums[m],nums[h]);
-                h--;
+            else{
+                swap(nums[m],nums[r]);
+                r--;
             }
         }
-        
     }
 };
