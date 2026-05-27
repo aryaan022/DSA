@@ -15,11 +15,11 @@ public:
         if(row+1<n && graph[row+1][col]==1){
             dfs(row+1,col,n,m,graph,count);
         }
-        //right
+        //left
         if(col-1>=0 && graph[row][col-1]==1){
             dfs(row,col-1,n,m,graph,count);
         }
-        //left
+        //right
         if(col+1<m&&graph[row][col+1]==1){
             dfs(row,col+1,n,m,graph,count);
         }
