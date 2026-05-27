@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aryaan022/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/aryaan022/DSA/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aryaan022/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/aryaan022/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/aryaan022/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
+| [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/aryaan022/DSA/tree/master/0994-rotting-oranges) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryaan022/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryaan022/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryaan022/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aryaan022/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryaan022/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
