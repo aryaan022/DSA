@@ -16,22 +16,7 @@ public:
         }
     }
 
-    // void countIsland(int row,int col,vector<vector<int>>&grid,int &count,int n,int m){
-    //     grid[row][col]=1;
-    //     count++;
-    //     if(row+1<n &&grid[row+1][col]==0){
-    //         countIsland(row+1,col,grid,count,n,m);
-    //     }
-    //     if(row-1>=0 &&grid[row-1][col]==0){
-    //         countIsland(row-1,col,grid,count,n,m);
-    //     }
-    //     if(col+1<m &&grid[row][col+1]==0){
-    //         countIsland(row,col+1,grid,count,n,m);
-    //     }
-    //     if(col-1>=0 &&grid[row][col-1]==0){
-    //         countIsland(row,col-1,grid,count,n,m);
-    //     }
-    // }
+    
 
     int closedIsland(vector<vector<int>>& grid) {
         int n=grid.size();
