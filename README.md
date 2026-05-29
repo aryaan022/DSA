@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aryaan022/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/aryaan022/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aryaan022/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryaan022/DSA/tree/master/0739-daily-temperatures) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/aryaan022/DSA/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/aryaan022/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryaan022/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/aryaan022/DSA/tree/master/0556-next-greater-element-iii) |
 | [0648-replace-words](https://github.com/aryaan022/DSA/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/aryaan022/DSA/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aryaan022/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/aryaan022/DSA/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/aryaan022/DSA/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/aryaan022/DSA/tree/master/0761-special-binary-string) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/aryaan022/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -749,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/aryaan022/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/aryaan022/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -896,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryaan022/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryaan022/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryaan022/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
