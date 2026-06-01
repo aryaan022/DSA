@@ -12,7 +12,7 @@ public:
                 int wt=e.second;
                 if(dist[v]>dist[u]+wt){
                     dist[v]=dist[u]+wt;
-                    pq.push({dist[v],v});
+                    pq.push({dist[v],v}); //pushing the distance[v] and the vertex
                 }
             }
         }
@@ -29,7 +29,7 @@ public:
             graph[u].push_back(make_pair(v,wt));
         }
         dij(k,n,dist,graph);
-        for(int i=1;i<=n;i++){
+        for(int i=1;i<=n;i++){ // why 1 because we ar enot use index 0 as the elemt in grpah is from 1 to n this time
             if(dist[i]==INT_MAX){
                 return -1;
             }
