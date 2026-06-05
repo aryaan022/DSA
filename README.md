@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aryaan022/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/aryaan022/DSA/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/aryaan022/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aryaan022/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aryaan022/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryaan022/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aryaan022/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aryaan022/DSA/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/aryaan022/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/aryaan022/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryaan022/DSA/tree/master/0746-min-cost-climbing-stairs) |
