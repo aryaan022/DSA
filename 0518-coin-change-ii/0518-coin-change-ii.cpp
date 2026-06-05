@@ -1,11 +1,11 @@
 class Solution {
 public:
     int rec(int n,int amount ,vector<int>&coins,vector<vector<int>>&dp){
-        if(n==0){
-            return 0;
-        }
         if(amount == 0){
             return 1;
+        }
+        if(n==0){
+            return 0;
         }
         if(dp[n][amount]!=-1){
             return dp[n][amount];
