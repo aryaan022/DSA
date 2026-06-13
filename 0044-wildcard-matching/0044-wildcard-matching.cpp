@@ -21,7 +21,7 @@ public:
                     dp[i][j]=dp[i-1][j-1];
                 }
                 else if(p[j-1]=='*'){
-                    dp[i][j]=dp[i-1][j] || dp[i][j-1];
+                    dp[i][j]=dp[i-1][j] || dp[i][j-1]; // this woul be the improtant this why we have written two of them
                 }
                 else{
                     dp[i][j]=false;
