@@ -23,7 +23,6 @@ public:
         }
 
         //left max and right max
-
         int lm= max(0,dfs(node->left,result));
         int rm = max(0,dfs(node->right,result));
 
