@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryaan022/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aryaan022/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryaan022/DSA/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryaan022/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aryaan022/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryaan022/DSA/tree/master/0202-happy-number) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aryaan022/DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/aryaan022/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/aryaan022/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryaan022/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/aryaan022/DSA/tree/master/0198-house-robber) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryaan022/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aryaan022/DSA/tree/master/0100-same-tree) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryaan022/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/aryaan022/DSA/tree/master/0100-same-tree) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aryaan022/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
