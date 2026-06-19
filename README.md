@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aryaan022/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aryaan022/DSA/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/aryaan022/DSA/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aryaan022/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aryaan022/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/aryaan022/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/aryaan022/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaan022/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/aryaan022/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/aryaan022/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/aryaan022/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aryaan022/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/aryaan022/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/aryaan022/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/aryaan022/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryaan022/DSA/tree/master/0322-coin-change) |
