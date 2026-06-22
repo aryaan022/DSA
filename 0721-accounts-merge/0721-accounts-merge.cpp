@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int>rank;
-    vector<int>Par;
+    vector<int>par;
     int find(int x){
-        if(Par[x]==x){
+       if(par[x]==x){
             return x;
-        }
-        return Par[x]=find(Par[x]); //path compression
+       }
+       return par[x]=find(par[x]);
     }
 
     void UnionByRank(int u,int v){
@@ -17,30 +17,29 @@ public:
             return;
         }
         if(rank[ParU]==rank[ParV]){
-            Par[ParV]=ParU;
+            par[ParV]=ParU;
             rank[ParU]++;
         }
         else if(rank[ParU]>rank[ParV]){
-            Par[ParV]=ParU;
+            par[ParV]=ParU;
         }
         else{
-            Par[ParU]=ParV;
+            par[ParU]=ParV;
         }
     }
+
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        // reinitialise
         int n = accounts.size();
         rank.resize(n);
-        Par.resize(n);
+        par.resize(n);
         for(int i=0;i<n;i++){
-            Par[i]=i;
+            par[i]=i;
             rank[i]=0;
         }
 
-
-        //2 unordered map me email and uska index store krege for finding dupplicate
+        //findig duplicate
         unordered_map<string,int>m;
-        for(int i=0;i<n;i++){
+        for (int i=0;i<n;i++){
             for(int j=1;j<accounts[i].size();j++){
                 if(m.count(accounts[i][j])){
                     UnionByRank(i,m[accounts[i][j]]);
@@ -51,27 +50,26 @@ public:
             }
         }
 
-        //3  finding original parents for emails and string them into map
-        unordered_map<int,vector<string>>mp;
-        for(auto it :m){
-            string email = it.first;
-            int idx=it.second;
+        unordered_map<int ,vector<string>>mp;
+        for(auto it:m){
+            string email=it.first;
+            int idx= it.second;
 
-            int originalidx= find(idx);
-            mp[originalidx].push_back(email);  // basically it will look like  0 ->{ar@gmail.com , br@gmail.com} 
+            int updatedidx=find(idx);
+            mp[updatedidx].push_back(email);
         }
 
-        //4 last phase ab humko name uthana original se and emails uthani mp se and merge karke array me add krna and return krna hai
+
         vector<vector<string>>ans;
-        
-        for(auto  it:mp){
+
+        for(auto it:mp){
             vector<string>temp;
-            int idx = it.first;
-            vector<string>emails =it.second;
-            string name=accounts[idx][0];
-            sort(emails.begin(),emails.end());
+            int idx=it.first;
+            vector<string>email =it.second;
+            string name = accounts[idx][0];
+            sort(email.begin(),email.end());
             temp.push_back(name);
-            for(auto e:emails){
+            for(auto e:email){
                 temp.push_back(e);
             }
             ans.push_back(temp);
