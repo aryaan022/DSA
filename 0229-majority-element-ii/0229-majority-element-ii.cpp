@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-
         unordered_map<int,int>m;
         vector<int>ans;
 
@@ -20,6 +19,9 @@ public:
                 ans.push_back(p.first);
             }
         }
+
+
         return ans;
+        
     }
 };
