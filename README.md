@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/aryaan022/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/aryaan022/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/aryaan022/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aryaan022/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aryaan022/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/aryaan022/DSA/tree/master/0069-sqrtx) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/aryaan022/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/aryaan022/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aryaan022/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/aryaan022/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/aryaan022/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/aryaan022/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aryaan022/DSA/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aryaan022/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Breadth-First Search
