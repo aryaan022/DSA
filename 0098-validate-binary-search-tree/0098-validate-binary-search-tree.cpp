@@ -10,18 +10,17 @@
  * };
  */
 class Solution {
-public:
-    bool Validate(TreeNode* root ,long long min,long long max){
-        if(root == NULL){
+public: 
+    bool isValid(TreeNode* root ,long long min ,long long max){
+        if(!root){
             return true;
         }
-
         if(root->val <= min || root->val >= max){
             return false;
         }
-        return Validate(root->left ,min,root->val) && Validate(root->right ,root->val,max);
+        return isValid(root->left,min,root->val) && isValid(root->right,root->val,max);
     }
     bool isValidBST(TreeNode* root) {
-        return Validate(root,LLONG_MIN,LLONG_MAX);
+        return isValid(root,LLONG_MIN,LLONG_MAX);
     }
 };
