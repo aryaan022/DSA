@@ -1,50 +1,46 @@
 class Solution {
 public:
-    vector<int>par;
+    vector<int>parent;
     vector<int>rank;
     int find(int x){
-        if(par[x]==x){
+        if(parent[x]==x){
             return x;
         }
-        return par[x]=find(par[x]); //[path compression]
+        return parent[x]=find(parent[x]);
     }
 
-    void UnionByRank(int u,int v,vector<int>&ans){
-        int ParU=find(u);
+    void unionByRank(int u,int v,vector<int>&ans){
+        int ParU= find(u);
         int ParV=find(v);
-
-        if(ParU == ParV){ //find the cycle one edge
+        if(ParU==ParV){
             ans.push_back(u);
             ans.push_back(v);
             return;
         }
+
         if(rank[ParU]==rank[ParV]){
-            par[ParV]=par[ParU];
+            parent[ParV]=ParU;
             rank[ParU]++;
         }
-        
         else if(rank[ParU]>rank[ParV]){
-            par[ParV]=ParU;
+            parent[ParV]=ParU;
         }
         else{
-            par[ParU]=ParV;
+            parent[ParU]=ParV;
         }
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n= edges.size();
-        vector<int>ans;
-        par.resize(n+1);
-        rank.resize(n+1);
-
+        rank.resize(n+1,0);
+        parent.resize(n+1);
         for(int i=0;i<n+1;i++){
-            par[i]=i;
-            rank[i]=0;
+            parent[i]=i;
         }
-
-        for(int i=0;i<n;i++){
-            int u=edges[i][0];
-            int v=edges[i][1];
-            UnionByRank(u,v,ans);
+        vector<int>ans;
+        for(int i =0;i<edges.size();i++){
+            int u =edges[i][0];
+            int v =edges[i][1];
+            unionByRank(u,v,ans);
         }
         return ans;
     }
