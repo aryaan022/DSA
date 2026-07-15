@@ -15,10 +15,10 @@ public:
             return NULL;
         }
         ListNode* prev=NULL;
-        ListNode* curr =head;
-        ListNode* ne =NULL;
+        ListNode* curr=head;
+        ListNode* ne=NULL;
         while(curr!=NULL){
-            ne = curr->next;
+            ne=curr->next;
             curr->next=prev;
             prev=curr;
             curr=ne;
