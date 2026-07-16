@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aryaan022/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/aryaan022/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/aryaan022/DSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aryaan022/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aryaan022/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aryaan022/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/aryaan022/DSA/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aryaan022/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0876-middle-of-the-linked-list](https://github.com/aryaan022/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryaan022/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
