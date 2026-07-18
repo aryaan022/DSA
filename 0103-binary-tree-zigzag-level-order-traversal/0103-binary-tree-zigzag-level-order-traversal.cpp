@@ -11,45 +11,40 @@
  */
 class Solution {
 public:
+
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> res;
-        if(root==NULL){
-            return res;
+
+        vector<vector<int>>ans;
+        if(!root){
+            return ans;
         }
-        deque<TreeNode*>dq;
-        dq.push_back(root);
-        int c=1;
-        while(!dq.empty()){
-            int s=dq.size();
-            vector<int>ans;
-            for(int i=0;i<s;i++){
-                if(c%2!=0){
-                    TreeNode* curr = dq.front();
-                    dq.pop_front();
-                    ans.push_back(curr->val);
-                    if(curr->left){
-                        dq.push_back(curr->left);
-                    }
-                    if(curr->right){
-                        dq.push_back(curr->right);
-                    }
+        queue<TreeNode*>q;
+        q.push(root);
+        int lvl=0;
+        while(!q.empty()){
+            int s=q.size();
+            vector<int>temp(s);
+            for(int i =0;i<s;i++){
+                TreeNode* curr=q.front();
+                q.pop();
+                int idx=i;
+                if(lvl%2!=0){
+                    idx=s-i-1;
+                    temp[idx]=curr->val;
                 }
                 else{
-                    TreeNode* curr =dq.back();
-                    dq.pop_back();
-                    ans.push_back(curr->val);
-                    if(curr->right){
-                        dq.push_front(curr->right);
-                    }
-                    if(curr->left){
-                        dq.push_front(curr->left);
-                    }
+                    temp[idx]=curr->val;
                 }
-
+                if(curr->left){
+                    q.push(curr->left);
+                }
+                if(curr->right){
+                    q.push(curr->right);
+                }
             }
-            res.push_back(ans);
-            c++;
+            ans.push_back(temp);
+            lvl++;
         }
-        return res;
+        return ans;
     }
 };
