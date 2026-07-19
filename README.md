@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryaan022/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aryaan022/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aryaan022/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/aryaan022/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aryaan022/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aryaan022/DSA/tree/master/0063-unique-paths-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aryaan022/DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/aryaan022/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aryaan022/DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aryaan022/DSA/tree/master/0735-asteroid-collision) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/aryaan022/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aryaan022/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/aryaan022/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aryaan022/DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/aryaan022/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/aryaan022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aryaan022/DSA/tree/master/0074-search-a-2d-matrix) |
