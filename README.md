@@ -754,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aryaan022/DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/aryaan022/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aryaan022/DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/aryaan022/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/aryaan022/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/aryaan022/DSA/tree/master/0965-univalued-binary-tree) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryaan022/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryaan022/DSA/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aryaan022/DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/aryaan022/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryaan022/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/aryaan022/DSA/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryaan022/DSA/tree/master/1584-min-cost-to-connect-all-points) |
@@ -999,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aryaan022/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/aryaan022/DSA/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryaan022/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
