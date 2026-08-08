@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aryaan022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aryaan022/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aryaan022/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/aryaan022/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aryaan022/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aryaan022/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/aryaan022/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aryaan022/DSA/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/aryaan022/DSA/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/aryaan022/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aryaan022/DSA/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aryaan022/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/aryaan022/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/aryaan022/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/aryaan022/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aryaan022/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aryaan022/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aryaan022/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aryaan022/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aryaan022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/aryaan022/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aryaan022/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/aryaan022/DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aryaan022/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aryaan022/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryaan022/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/0099-recover-binary-search-tree) |
