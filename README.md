@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/aryaan022/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aryaan022/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aryaan022/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aryaan022/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aryaan022/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/aryaan022/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aryaan022/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/aryaan022/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aryaan022/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aryaan022/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2258-escape-the-spreading-fire](https://github.com/aryaan022/DSA/tree/master/2258-escape-the-spreading-fire) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3454-separate-squares-ii](https://github.com/aryaan022/DSA/tree/master/3454-separate-squares-ii) |
 ## Queue
 |  |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aryaan022/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Linked List
 |  |
 | ------- |
@@ -696,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aryaan022/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3575-maximum-good-subtree-score](https://github.com/aryaan022/DSA/tree/master/3575-maximum-good-subtree-score) |
 ## Divide and Conquer
 |  |
@@ -860,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/aryaan022/DSA/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aryaan022/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Breadth-First Search
 |  |
