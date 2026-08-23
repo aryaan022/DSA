@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/aryaan022/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/aryaan022/DSA/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/aryaan022/DSA/tree/master/1927-sum-game) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aryaan022/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aryaan022/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/aryaan022/DSA/tree/master/2288-count-operations-to-obtain-zero) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/aryaan022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/aryaan022/DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/aryaan022/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/aryaan022/DSA/tree/master/1927-sum-game) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aryaan022/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/aryaan022/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/aryaan022/DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/aryaan022/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/aryaan022/DSA/tree/master/1927-sum-game) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/aryaan022/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/aryaan022/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -1091,4 +1094,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3575-maximum-good-subtree-score](https://github.com/aryaan022/DSA/tree/master/3575-maximum-good-subtree-score) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/aryaan022/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
