@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aryaan022/DSA/tree/master/1929-concatenation-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/aryaan022/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryaan022/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aryaan022/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aryaan022/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aryaan022/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/aryaan022/DSA/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/aryaan022/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/aryaan022/DSA/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aryaan022/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/aryaan022/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aryaan022/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aryaan022/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
