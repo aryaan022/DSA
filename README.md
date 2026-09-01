@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/aryaan022/DSA/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aryaan022/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aryaan022/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3575-maximum-good-subtree-score](https://github.com/aryaan022/DSA/tree/master/3575-maximum-good-subtree-score) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aryaan022/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryaan022/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/aryaan022/DSA/tree/master/3531-count-covered-buildings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/aryaan022/DSA/tree/master/3583-count-special-triplets) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aryaan022/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/aryaan022/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2258-escape-the-spreading-fire](https://github.com/aryaan022/DSA/tree/master/2258-escape-the-spreading-fire) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/aryaan022/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aryaan022/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aryaan022/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryaan022/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/aryaan022/DSA/tree/master/3575-maximum-good-subtree-score) |
 ## Divide and Conquer
 |  |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/aryaan022/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2258-escape-the-spreading-fire](https://github.com/aryaan022/DSA/tree/master/2258-escape-the-spreading-fire) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryaan022/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph
 |  |
 | ------- |
