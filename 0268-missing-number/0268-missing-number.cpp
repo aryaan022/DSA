@@ -1,18 +1,17 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int n=nums.size();
-        int ac=0;
-        int curr=0;
-        int mis=0;
-        for(int i =0;i<=n;i++){
-            ac=ac+i;
+        
+        int actualsum=0;
+        int currsum=0;
+        int misn=0;
+        for(int i=0;i<=nums.size();i++){
+            actualsum +=i;
         }
-        for(int i=0;i<n;i++){
-            curr=curr+nums[i];
+        for(int i=0;i<nums.size();i++){
+            currsum +=nums[i];
         }
-        mis=ac-curr;
-        return mis;
-
+        misn= actualsum-currsum;
+        return misn;
     }
 };
