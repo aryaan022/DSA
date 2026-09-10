@@ -796,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaan022/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryaan022/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/aryaan022/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aryaan022/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaan022/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/aryaan022/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryaan022/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/aryaan022/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aryaan022/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aryaan022/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryaan022/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/aryaan022/DSA/tree/master/2092-find-all-people-with-secret) |
 | [2258-escape-the-spreading-fire](https://github.com/aryaan022/DSA/tree/master/2258-escape-the-spreading-fire) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryaan022/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -980,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aryaan022/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/aryaan022/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/aryaan022/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aryaan022/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Segment Tree
 |  |
