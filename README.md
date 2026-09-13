@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/aryaan022/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0835-image-overlap](https://github.com/aryaan022/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/aryaan022/DSA/tree/master/0912-sort-an-array) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aryaan022/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/aryaan022/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aryaan022/DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/aryaan022/DSA/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/aryaan022/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0994-rotting-oranges](https://github.com/aryaan022/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aryaan022/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
