@@ -1,48 +1,41 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> result;
-        if (matrix.empty()) return result;
+        vector<int>result;
+        if(matrix.empty()){
 
-        int m = matrix.size();       // number of rows
-        int n = matrix[0].size();    // number of columns
+            return result;
+        }
+        int m = matrix.size();
+        int n = matrix[0].size();
 
-        int top = 0, bottom = m - 1;
-        int left = 0, right = n - 1;
+        int t=0;
+        int b=m-1;
+        int l=0;
+        int r=n-1;
 
-        while (top <= bottom && left <= right) {
-            // Traverse left → right
-            for (int j = left; j <= right; j++) {
-                result.push_back(matrix[top][j]);
+        while(t<=b && l<=r){
+            for(int j=l;j<=r;j++){
+                result.push_back(matrix[t][j]);
             }
-            top++;
-
-            // Traverse top → bottom
-            for (int i = top; i <= bottom; i++) {
-                result.push_back(matrix[i][right]);
+            t++;
+            for(int i=t;i<=b;i++){
+                result.push_back(matrix[i][r]);
             }
-            right--;
-
-            // Traverse right → left
-            if (top <= bottom) {
-                for (int j = right; j >= left; j--) {
-                    result.push_back(matrix[bottom][j]);
+            r--;
+            if(t<=b){
+                for(int j=r;j>=l;j--){
+                    result.push_back(matrix[b][j]);
                 }
-                bottom--;
+                b--;
             }
-
-            // Traverse bottom → top
-            if (left <= right) {
-                for (int i = bottom; i >= top; i--) {
-                    result.push_back(matrix[i][left]);
+            if(l<=r){
+                for(int i=b;i>=t;i--){
+                    result.push_back(matrix[i][l]);
                 }
-                left++;
+                l++;
             }
         }
-
         return result;
     }
 };
