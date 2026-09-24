@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/aryaan022/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/aryaan022/DSA/tree/master/3531-count-covered-buildings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryaan022/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/aryaan022/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aryaan022/DSA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/aryaan022/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/aryaan022/DSA/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryaan022/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/aryaan022/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/aryaan022/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3870-count-commas-in-range](https://github.com/aryaan022/DSA/tree/master/3870-count-commas-in-range) |
