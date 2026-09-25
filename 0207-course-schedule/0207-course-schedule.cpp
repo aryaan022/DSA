@@ -3,10 +3,9 @@ public:
     bool isCycle(int src,vector<bool>&recpath,vector<bool>&isvis , vector<vector<int>>& graph){
         recpath[src]=true;
         isvis[src]=true;
-
         for(int i=0;i<graph.size();i++){
-            int u = graph[i][1];
-            int v = graph[i][0];
+            int u= graph[i][1];
+            int v =graph[i][0];
 
             if(u==src){
                 if(!isvis[v]){
@@ -17,7 +16,6 @@ public:
                 else if(recpath[v]){
                     return true;
                 }
-
             }
         }
         recpath[src]=false;
