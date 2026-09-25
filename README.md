@@ -1168,4 +1168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/aryaan022/DSA/tree/master/1872-stone-game-viii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aryaan022/DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aryaan022/DSA/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
