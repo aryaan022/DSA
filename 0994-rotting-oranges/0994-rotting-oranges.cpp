@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void bfs(int m ,int n,vector<vector<int>>& g,int &c){
+    void bfs(int m,int n ,vector<vector<int>>& g,int &count){
         queue<pair<int,int>>q;
         for(int i =0;i<m;i++){
             for(int j =0;j<n;j++){
@@ -9,39 +9,40 @@ public:
                 }
             }
         }
+
         while(!q.empty()){
             int s=q.size();
             for(int i =0;i<s;i++){
                 int r=q.front().first;
-                int c=q.front().second;
+                int c = q.front().second;
                 q.pop();
 
                 //up
                 if(r-1>=0 &&g[r-1][c]==1){
-                    g[r-1][c]=2;
-                    q.push({r-1,c});
+                    g[r-1][c] = 2;
+                    q.push(make_pair(r-1,c));
                 }
                 //down
-                if(r+1<m && g[r+1][c]==1){
-                    g[r+1][c]=2;
+                if(r+1<m &&g[r+1][c]==1){
+                    g[r+1][c] = 2;
                     q.push({r+1,c});
                 }
                 //right
-                if(c+1<n && g[r][c+1]==1){
-                    g[r][c+1]=2;
+                if(c+1<n &&g[r][c+1]==1){
+                    g[r][c+1] = 2;
                     q.push({r,c+1});
                 }
-
-                //left
-                if(c-1>=0 && g[r][c-1]==1){
-                    g[r][c-1]=2;
+                //
+                if(c-1>=0 &&g[r][c-1]==1){
+                    g[r][c-1] = 2;
                     q.push({r,c-1});
                 }
             }
             if(!q.empty()){
-                c++;
+                count++;
             }
         }
+
     }
     int orangesRotting(vector<vector<int>>& g) {
         int  count=0;
