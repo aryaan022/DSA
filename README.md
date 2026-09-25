@@ -1180,4 +1180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aryaan022/DSA/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/aryaan022/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
