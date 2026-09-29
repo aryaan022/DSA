@@ -7,12 +7,13 @@ public:
                 dfs(j,isConnected,vis);
             }
         }
+
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int v=isConnected.size();
-        vector<bool> vis(v,false);
-        int count =0;
-        for(int i=0;i<v;i++){
+        int v=  isConnected.size();
+        vector<bool>vis(v,false);
+        int count=0;
+        for(int i =0;i<v;i++){
             if(!vis[i]){
                 count++;
                 dfs(i,isConnected,vis);
