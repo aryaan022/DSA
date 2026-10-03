@@ -1205,4 +1205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryaan022/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aryaan022/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aryaan022/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
