@@ -1213,4 +1213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/aryaan022/DSA/tree/master/0322-coin-change) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryaan022/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
