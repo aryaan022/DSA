@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aryaan022/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/aryaan022/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aryaan022/DSA/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryaan022/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryaan022/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/aryaan022/DSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/aryaan022/DSA/tree/master/1544-make-the-string-great) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/aryaan022/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0826-most-profit-assigning-work](https://github.com/aryaan022/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/aryaan022/DSA/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryaan022/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aryaan022/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/aryaan022/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/aryaan022/DSA/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/aryaan022/DSA/tree/master/0721-accounts-merge) |
 | [0761-special-binary-string](https://github.com/aryaan022/DSA/tree/master/0761-special-binary-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryaan022/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/aryaan022/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/aryaan022/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/aryaan022/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryaan022/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryaan022/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prim's Algorithm
 |  |
