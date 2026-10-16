@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/aryaan022/DSA/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/aryaan022/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/aryaan022/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/aryaan022/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aryaan022/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/aryaan022/DSA/tree/master/0621-task-scheduler) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aryaan022/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aryaan022/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/aryaan022/DSA/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/aryaan022/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/aryaan022/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/aryaan022/DSA/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/aryaan022/DSA/tree/master/0556-next-greater-element-iii) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryaan022/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/aryaan022/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/aryaan022/DSA/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/aryaan022/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/aryaan022/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/aryaan022/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aryaan022/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
