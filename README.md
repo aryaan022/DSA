@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/aryaan022/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/aryaan022/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/aryaan022/DSA/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aryaan022/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3698-split-array-with-minimum-difference](https://github.com/aryaan022/DSA/tree/master/3698-split-array-with-minimum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryaan022/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aryaan022/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3575-maximum-good-subtree-score](https://github.com/aryaan022/DSA/tree/master/3575-maximum-good-subtree-score) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aryaan022/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
