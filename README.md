@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/aryaan022/DSA/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aryaan022/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/aryaan022/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3698-split-array-with-minimum-difference](https://github.com/aryaan022/DSA/tree/master/3698-split-array-with-minimum-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryaan022/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/aryaan022/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/aryaan022/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/aryaan022/DSA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/aryaan022/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aryaan022/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aryaan022/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aryaan022/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/aryaan022/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3665-twisted-mirror-path-count](https://github.com/aryaan022/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aryaan022/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aryaan022/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Enumeration
